@@ -1,0 +1,63 @@
+.h1, h1 {
+  font-size: 2.5rem;
+  color: teal;
+}
+.navbar-expand-lg .navbar-nav {
+
+  padding-left: 950px!important;
+  grid-gap: 50px!important;
+}
+.bg-light {
+  background-color:white!important;
+}
+
+
+
+.lst-item {
+  padding-bottom: 10px;
+}
+.navbar-brand {
+
+    padding-bottom: .6125rem!important;
+    padding-left: 2rem!important;
+
+}
+
+body {
+  background-color: white!important;
+}
+
+.container-fluid{
+  display: flex!important;
+}
+.img-fluid {
+  padding-top: 60px!important;
+  width: 80%;
+  padding-left: 120px;
+}
+.heading {
+  padding-top: 100px;
+  margin-left: 50px;
+  width: 50%;
+}
+dl, ol, ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  padding-top: 10px;
+}
+.services-section {
+  padding-top: 50px;
+}
+.chart {
+  padding-top: 50px;
+}
+.heading-para {
+  width: 50%;
+  padding-top: 35px;
+  margin-left: 25px;
+}
+.navbar-expand-lg {
+
+  padding-top: 15px!important;
+}
+
